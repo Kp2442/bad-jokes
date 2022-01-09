@@ -1,0 +1,19 @@
+body {
+	font-family: "Nunito", sans-serif;
+	text-align: center;
+}
+
+.App {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	color: #78909c;
+	background: linear-gradient(
+		135deg,
+		rgb(179, 229, 252) 0%,
+		rgb(179, 229, 252) 50%,
+		rgb(240, 98, 146) 50%,
+		rgb(240, 98, 146) 100%
+	);
+}
